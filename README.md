@@ -57,4 +57,24 @@ Year-over-Year (YoY) growth rates.</li>
 <li>Incorporated various types of charts and visuals to showcase the analysis and insights.</li>
 </ul>
 
+### SQL Query insights and Validation
+<ul>
+
+ <li><strong>Total Casualties in 2022:</strong> Calculated the total number of casualties in 2022 by summing up the "number_of_casualties" column from the "accidentdata" table.</li>
+
+  <li><strong>Casualties in 2022 with Dry Road Surface:</strong> Computed the total number of casualties in 2022 where the road surface conditions were 'Dry'.</li>
+
+<li><strong>Casualties by Accident Severity in 2022:</strong> Categorized casualties by accident severity for the year 2022 into three categories: 'Fatal,' 'Serious,' and 'Slight'. Each query calculates the sum of casualties for each severity level.</li>
+
+<li><strong>Percentage of Fatal Casualties in Total Casualties:</strong> Calculated the percentage of fatal casualties out of the total casualties in the dataset.</li>
+
+<li><strong>Monthly Casualties in 2022:</strong> Broke down the total number of casualties in 2022 by month, showing the distribution of casualties across the months.</li>
+
+<li><strong>Casualties by Road Type in 2022:</strong> Analyzed casualties in 2022 based on different road types, providing insights into which road types had higher casualties.</li>
+
+<li><strong>Casualties by Urban/Rural Area in 2022:</strong> Analyzed casualties in 2022 based on whether they occurred in urban or rural areas, showing the percentage of casualties in each area type out of the total casualties.
+</li>
+<li><strong>Casualties by Local Authorities:</strong> Summarized casualties by local authorities, listing the top 10 authorities with the highest total number of casualties.</li>
+</ul>
+
 
