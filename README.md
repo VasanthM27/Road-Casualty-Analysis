@@ -42,7 +42,7 @@ Year-over-Year (YoY) growth rates.</li>
 </ul>
 
 ### Final PowerBI Dashboard Report
-<img src = ""/>
+<img src = "https://github.com/VasanthM27/Road-Casualty-Analysis/blob/main/File/Images/RC_Analysis_Report.png"/>
 
 ### Data Modeling and Visualization
 <ul>
