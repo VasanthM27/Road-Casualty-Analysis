@@ -74,7 +74,6 @@ Year-over-Year (YoY) growth rates.</li>
 
 <li><strong>Casualties by Urban/Rural Area in 2022:</strong> Analyzed casualties in 2022 based on whether they occurred in urban or rural areas, showing the percentage of casualties in each area type out of the total casualties.
 </li>
-<li><strong>Casualties by Local Authorities:</strong> Summarized casualties by local authorities, listing the top 10 authorities with the highest total number of casualties.</li>
 </ul>
 
 
